@@ -12,23 +12,12 @@ I'm a Computer Science student with a passion for technology and problem-solving
 
 🎓 Currently pursuing an Honours degree in Computer Science and working as Systems Specialist / IT Technician.
 
-💡 Always seeking new tech adventures and opportunities to learn and grow.
-
 🔧 Mastering the art of troubleshooting while diving deep into the realms of code.
 
 🌱 Passionate about software development, cybersecurity, and everything tech-related.
 
 🔗 Let's connect and collaborate on exciting projects!
 
-## Goals for 2024
-
-- 🌟 Expand my knowledge in cybersecurity/DevOps.
-- 💻 Dive deeper into machine learning algorithms and data science.
-- 🚀 Obtain AWS Cloud Practitioner and CCNA certifications.
-
-## Get in Touch
-
-Feel free to reach out to me on LinkedIn. Let's build something awesome together!
 
 ## Software Development Languages
 
@@ -84,9 +73,20 @@ Courses Completed:
 
 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/82SZFUWF4B3T)
 
+## Goals for 2024
+
+- 🌟 Expand my knowledge in cybersecurity/DevOps.
+- 💻 Dive deeper into machine learning algorithms and data science.
+- 🚀 Obtain AWS Cloud Practitioner and CCNA certifications.
+
 
 ## Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sunbunzyt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 🎵 Music is my escape! Check out what I'm listening to on Spotify.
+
+
+## Get in Touch
+
+Feel free to reach out to me on LinkedIn. Let's build something awesome together!
