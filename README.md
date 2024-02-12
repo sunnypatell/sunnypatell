@@ -30,28 +30,6 @@ I'm a Computer Science student with a passion for technology and problem-solving
 
 Feel free to reach out to me on LinkedIn. Let's build something awesome together!
 
-## Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sunbunzyt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-🎵 Music is my escape! Check out what I'm listening to on Spotify.
-
-## Certifications
-
-[<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png" height="40">](https://www.coursera.org/professional-certificates/google-it-automation)
-
-🎓 Certified in Google IT Automation with Python Professional Certificate.
-
-Courses Completed:
-- Crash Course on Python
-- Using Python to Interact with the Operating System
-- Introduction to Git and GitHub
-- Troubleshooting and Debugging Techniques
-- Configuration Management and the Cloud
-- Automating Real-World Tasks with Python
-
-[View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/82SZFUWF4B3T)
-
 ## Software Development Languages
 
 [<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40">](https://www.java.com/)
@@ -90,3 +68,25 @@ Courses Completed:
 [<img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="40">](https://www.maxon.net/en/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40">](https://www.blender.org/)
 
+## Certifications
+
+[<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png" height="40">](https://www.coursera.org/professional-certificates/google-it-automation)
+
+🎓 Certified in Google IT Automation with Python Professional Certificate.
+
+Courses Completed:
+- Crash Course on Python
+- Using Python to Interact with the Operating System
+- Introduction to Git and GitHub
+- Troubleshooting and Debugging Techniques
+- Configuration Management and the Cloud
+- Automating Real-World Tasks with Python
+
+[View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/82SZFUWF4B3T)
+
+
+## Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sunbunzyt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+🎵 Music is my escape! Check out what I'm listening to on Spotify.
