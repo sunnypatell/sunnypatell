@@ -64,36 +64,32 @@ Courses Completed:
 
 ## Dependencies
 
-[<img src="https://www.java.com/favicon.ico" height="40">](https://www.java.com/)
+[<img src="https://www.python.org/static/favicon.ico" height="40">](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_firebase_2019.png" height="40">](https://firebase.google.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" height="40">](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
-[<img src="https://selenium.dev/images/selenium_logo_square_green.png" height="40">](https://www.selenium.dev/)
-[<img src="https://www.raspberrypi.org/app/uploads/2021/05/RPi-Logo-Reg-SCREEN.png" height="40">](https://www.raspberrypi.org/)
 
 ## Cybersecurity
 
-[<img src="https://www.kali.org/assets/images/kali-logo.svg" height="40">](https://www.kali.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Windows_Subsystem_for_Linux_logo.png" height="40">](https://docs.microsoft.com/en-us/windows/wsl/)
+[<img src="https://i.pinimg.com/564x/cb/52/ed/cb52ed38ba67bdaef9f48225b6b9640f.jpg" height="40">](https://www.kali.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ubuntu_circle_of_friends_%28orange%29.svg" height="40">](https://ubuntu.com/)
 [<img src="https://www.wireshark.org/favicon.ico" height="40">](https://www.wireshark.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Man_in_the_middle_logo.png" height="40">](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+[<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="40">](https://nmap.org/)
+[<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="40">](https://www.metasploit.com/)
+[<img src="https://www.kali.org/tools/john/images/john-logo.svg" height="40">](https://www.openwall.com/john/)
+[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40">](https://github.com/vanhauser-thc/thc-hydra)
+[<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" height="40">](https://www.aircrack-ng.org/)
 
 ## IT Tools
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Windows_azure_logo.png" height="40">](https://azure.microsoft.com/en-us/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Active_Directory_Domain_Services_Icon.png" height="40">](https://www.microsoft.com/en-us/cloud-platform/active-directory)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Aruba_Logo.png" height="40">](https://www.arubanetworks.com/)
-[<img src="https://www.cisco.com/c/dam/en_us/solutions/industries/images/ios.png" height="40">](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html)
-[<img src="https://www.netgear.com/images/logos/netgear-logo.png" height="40">](https://www.netgear.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hyper-V-logo.svg/1200px-Hyper-V-logo.svg.png" height="40">](https://www.microsoft.com/en-us/cloud-platform/hyper-v)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Vmware-esxi-logo.jpg" height="40">](https://www.vmware.com/products/esxi-and-esx.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Azure_Logo.svg" height="40">](https://azure.microsoft.com/en-us/)
+[<img src="https://p7.hiclipart.com/preview/235/752/879/juniper-networks-aruba-networks-computer-network-hewlett-packard-enterprise-network-security-aruba.jpg" height="40">](https://www.arubanetworks.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40">](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Netgear_logo_2014.svg" height="40">](https://www.netgear.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" height="40">](https://www.microsoft.com/en-us/cloud-platform/hyper-v)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Vmware-by-broadcom.svg" height="40">](https://www.vmware.com/)
+[<img src="https://www.connectwise.com/globalassets/media/logos/flagged/automate-logo.png" height="40">](https://www.connectwise.com/software/automate)
 
 ## Video and Photo Editing
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40">](https://www.adobe.com/products/photoshop.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Adobe_Premiere_Pro_CC_icon.svg" height="40">](https://www.adobe.com/products/premiere.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="40">](https://www.adobe.com/products/aftereffects.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Cinema_4D_Logo.png" height="40">](https://www.maxon.net/en/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40">](https://www.blender.org/)
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="40">](https://www.adobe.com/products/premiere.html)
+[<img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="40">](https://www.maxon.net/en/)
