@@ -6,6 +6,8 @@ I'm a Computer Science student with a passion for technology and problem-solving
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-patel-30b460204/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sunnypatell&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
+
 ## About Me
 
 🎓 Currently pursuing an Honours degree in Computer Science and working as Systems Specialist / IT Technician.
