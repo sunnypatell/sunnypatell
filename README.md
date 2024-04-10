@@ -79,14 +79,6 @@ Courses Completed:
 - 💻 Dive deeper into machine learning algorithms and data science.
 - 🚀 Obtain AWS Cloud Practitioner and CCNA certifications.
 
-
-## Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sunbunzyt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-🎵 Music is my escape! Check out what I'm listening to on Spotify.
-
-
 ## Get in Touch
 
 Feel free to reach out to me on LinkedIn. Let's build something awesome together!
