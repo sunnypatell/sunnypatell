@@ -75,9 +75,9 @@ Courses Completed:
 
 ## Goals for 2024
 
-- 🌟 Expand my knowledge in DevOps & CI/CD
-- 💻 Dive deeper into machine learning algorithms and data science.
-- 🚀 Obtain AWS Machine Learning & Databases (Specialty) and CCNA certifications.
+- 🌟 Expand my knowledge in DevOps & CI/CD ✅
+- 💻 Dive deeper into machine learning algorithms and data science. ✅
+- 🚀 Obtain AWS Databases (Specialty) ✅ and CCNA certification 🔁.
 
 ## Get in Touch
 
