@@ -59,19 +59,15 @@ I'm a Computer Science student with a passion for technology and problem-solving
 
 ## Certifications
 
-[<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png" height="40">](https://www.coursera.org/professional-certificates/google-it-automation)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40">](https://www.credly.com/badges/b6f69785-2da8-447e-b02c-3350bf9af803/print)
 
-🎓 Certified in Google IT Automation with Python Professional Certificate.
+🎓 **GitHub Foundations Certification**
 
-Courses Completed:
-- Crash Course on Python
-- Using Python to Interact with the Operating System
-- Introduction to Git and GitHub
-- Troubleshooting and Debugging Techniques
-- Configuration Management and the Cloud
-- Automating Real-World Tasks with Python
+- Covers essential GitHub workflows, repository management, collaboration techniques, and best practices.
+- Demonstrates proficiency in version control, pull requests, branching strategies, and GitHub Actions.
 
-[View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/82SZFUWF4B3T)
+[View Certificate](https://www.credly.com/badges/b6f69785-2da8-447e-b02c-3350bf9af803/print)
+
 
 ## Goals for 2024
 
