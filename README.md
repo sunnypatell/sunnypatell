@@ -71,7 +71,7 @@ I'm a Computer Science student with a passion for technology and problem-solving
 
 ---
 
-## 🚀 Goals for 2024  
+## 🚀 Goals for 2025  
 
 ✅ **Build scalable full-stack applications with cloud-native architectures**  
 ✅ **Expand expertise in DevOps & CI/CD pipelines**  
