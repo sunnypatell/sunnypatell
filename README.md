@@ -1,87 +1,145 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Full-Stack+Developer;Backend+Engineer;Cloud+Computing+Learner;DevOps+Enthusiast)](https://git.io/typing-svg)
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=656BF7&text=Sunny%20Patel&fontAlign=50&fontAlignY=35&fontSize=48&desc=Full‑Stack%20Developer%20•%20Backend%20Engineer%20•%20DevOps%20Enthusiast&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+</div>
 
-# Hey there, I'm Sunny Patel! 🚀
+<!-- Social + Counters -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunny-patel-30b460204/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/sunnypatell?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/sunnypatell?style=for-the-badge&color=656BF7&label=Followers">
+  </a>
+  <a href="https://github.com/sunnypatell">
+    <img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2&label=Stars">
+  </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sunnypatell&style=for-the-badge&color=6f42c1">
+</p>
 
-I'm a Computer Science student with a passion for technology and problem-solving.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-patel-30b460204/)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunnypatell&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
-
-## About Me
-
-🎓 **Honours Computer Science Student** with a deep passion for **software development, automation, and cloud technologies**.  
-💻 **Full-Stack Developer** experienced in designing, building, and optimizing scalable applications.  
-🚀 **Passionate about performance, security, and writing clean, maintainable code**.  
-🌍 **Always learning** and exploring **DevOps, cloud computing, and AI-driven solutions**.  
-
----
-
-## 🛠 Tech Stack & Expertise  
-
-### **Software Development Languages**
-
-[<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40">](https://www.java.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40">](https://www.cplusplus.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40">](https://www.typescriptlang.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/)
-
-### **Cybersecurity**
-
-[<img src="https://www.kali.org/images/kali-tools-icon-missing.svg" height="40">](https://www.kali.org/)
-[<img src="https://www.wireshark.org/favicon.ico" height="40">](https://www.wireshark.org/)
-[<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="40">](https://nmap.org/)
-[<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="40">](https://www.metasploit.com/)
-[<img src="https://www.kali.org/tools/john/images/john-logo.svg" height="40">](https://www.openwall.com/john/)
-[<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="40">](https://github.com/vanhauser-thc/thc-hydra)
-[<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" height="40">](https://www.aircrack-ng.org/)
-
-### **IT Tools**
-
-[<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" height="40">](https://aka.ms/PSWindows)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40">](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Netgear_logo_2014.svg" height="40">](https://www.netgear.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" height="40">](https://www.microsoft.com/en-us/cloud-platform/hyper-v)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Vmware-by-broadcom.svg" height="40">](https://www.vmware.com/)
-[<img src="https://www.connectwise.com/globalassets/media/logos/flagged/automate-logo.png" height="40">](https://www.connectwise.com/software/automate)
-
-### **Video and Photo Editing**
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40">](https://www.adobe.com/products/photoshop.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="40">](https://www.adobe.com/products/premiere.html)
-[<img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="40">](https://www.maxon.net/en/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40">](https://www.blender.org/)
+<!-- Typing Tagline -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&center=true&vCenter=true&width=800&lines=I+build+reliable+systems.+clean%2C+secure%2C+scalable;Full-Stack+Developer+%7C+Backend+Engineer+%7C+Cloud+%2B+DevOps" alt="Typing SVG" />  </a>
+</p>
 
 ---
 
-## 🎓Certifications
-
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40">](https://www.credly.com/badges/b6f69785-2da8-447e-b02c-3350bf9af803/print)  
-
-🎓 **GitHub Foundations Certification**  
-- Covers **GitHub workflows, repository management, collaboration techniques, and best practices**.  
-- Demonstrates expertise in **version control, pull requests, branching strategies, and GitHub Actions**.  
-
-[View Certificate](https://www.credly.com/badges/b6f69785-2da8-447e-b02c-3350bf9af803/print)  
+## 👋 About Me
+- 🎓 Honours CS student focused on software engineering and cloud ecosystems.
+- 💡 Passionate about performance, security, and maintainability.
+- 🧩 Love backend architecture, automation, observability, and DX.
+- 🌩️ Exploring DevOps (IaC, CI/CD), Cloud (Azure/GCP), and AI integrations.
 
 ---
 
-## 🚀 Goals for 2025  
+## 🛠 Tech Stack
 
-✅ **Build scalable full-stack applications with cloud-native architectures**  
-✅ **Expand expertise in DevOps & CI/CD pipelines**  
-✅ **Explore AI & ML integration in software development**  
+<!-- Languages & Core -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="42"/>&nbsp;
+</p>
+
+<!-- Frontend / Mobile -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" height="42"/>&nbsp;
+</p>
+
+<!-- Backend -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" height="42"/>&nbsp;
+</p>
+
+<!-- Databases -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" height="42"/>&nbsp;
+</p>
+
+<!-- Cloud / DevOps -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" height="42"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" height="42"/>&nbsp;
+</p>
+
+<!-- IT Tools (badges for clarity) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>&nbsp;
+  <img src="https://img.shields.io/badge/Netgear-6D01A8?style=for-the-badge&logoColor=white" alt="Netgear"/>&nbsp;
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Hyper‑V"/>&nbsp;
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>&nbsp;
+  <img src="https://img.shields.io/badge/ConnectWise_Automate-2F65B0?style=for-the-badge&logoColor=white" alt="ConnectWise Automate"/>&nbsp;
+</p>
+
+<!-- Creative Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>&nbsp;
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" alt="Cinema 4D"/>&nbsp;
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>&nbsp;
+</p>
 
 ---
 
-## 📬 Let's Connect  
-
-📌 I’m open to discussions on software engineering, system design, and cloud computing.  
-🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sunny-patel-30b460204/)**!  
+## 🏆 Trophies
+<div align="center">
+  <img alt="GitHub Trophies"
+       src="https://github-profile-trophy.vercel.app/?username=sunnypatell&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+</div>
 
 ---
+
+## 📊 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="160" alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
+      </td>
+      <td>
+        <img height="160" alt="Top Languages"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Activity Graph (streaks intentionally omitted) -->
+  <img alt="Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=sunnypatell&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🎯 Focus
+- Backend architecture & API design
+- Cloud-native patterns (containers, orchestration)
+- IaC + CI/CD and developer productivity
+- Observability, reliability, and cost-aware engineering
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:656BF7,100:8A2BE2&fontColor=ffffff" alt="footer" />
+</div>
+
+<!--
+Notes:
+- Place this README in a repo named exactly like your username: `sunnypatell`.
+- Hybrid visuals: Devicon via jsDelivr for crisp icons; Shields.io for labeled badges.
+- External cards (stats/trophies/graph) are widely used and recover gracefully if rate-limited.
+-->
