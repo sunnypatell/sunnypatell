@@ -20,7 +20,7 @@
 <!-- Typing Tagline -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&center=true&vCenter=true&width=800&lines=I+build+reliable+systems.+clean%2C+secure%2C+scalable;Full-Stack+Developer+%7C+Backend+Engineer+%7C+Cloud+%2B+DevOps" alt="Typing SVG" />  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&center=true&vCenter=true&width=800&lines=I+build+reliable+systems.+clean%2C+secure%2C+scalable.;Full-Stack+Developer+%7C+Backend+Engineer+%7C+Cloud+%2B+DevOps" alt="Typing SVG" />  </a>
 </p>
 
 ---
