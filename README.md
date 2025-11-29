@@ -121,14 +121,6 @@
 
 ---
 
-## 🎯 Focus
-- Backend architecture & API design
-- Cloud-native patterns (containers, orchestration)
-- IaC + CI/CD and developer productivity
-- Observability, reliability, and cost-aware engineering
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:656BF7,100:8A2BE2&fontColor=ffffff" alt="footer" />
 </div>
