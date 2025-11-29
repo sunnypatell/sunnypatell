@@ -108,10 +108,6 @@
   <table>
     <tr>
       <td>
-        <img height="160" alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
-      </td>
-      <td>
         <img height="160" alt="Top Languages"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
       </td>
