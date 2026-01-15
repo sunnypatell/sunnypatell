@@ -98,7 +98,7 @@
 ## 🏆 Trophies
 <div align="center">
   <img alt="GitHub Trophies"
-       src="https://github-profile-trophy.vercel.app/?username=sunnypatell&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+       src="https://github-profile-trophy-fork-two.vercel.app/?username=sunnypatell&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
@@ -109,7 +109,7 @@
     <tr>
       <td>
         <img height="160" alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+          src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
       </td>
     </tr>
   </table>
