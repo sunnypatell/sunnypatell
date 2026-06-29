@@ -1,135 +1,46 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:B5431F,100:E8794E&text=Sunny%20Patel&fontAlign=50&fontAlignY=35&fontSize=48&desc=Full‑Stack%20Developer%20•%20Backend%20Engineer%20•%20DevOps%20Enthusiast&descAlign=50&descAlignY=65&fontColor=EDE8DC" alt="header" />
-</div>
-
-<!-- Social + Counters -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunny-patel-30b460204/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/sunnypatell?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/sunnypatell?style=for-the-badge&color=D9663D&label=Followers">
-  </a>
-  <a href="https://github.com/sunnypatell">
-    <img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=D9663D&label=Stars">
-  </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sunnypatell&style=for-the-badge&color=D9663D">
-</p>
-
-<!-- Typing Tagline -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8794E&center=true&vCenter=true&width=800&lines=I+build+reliable+systems.+clean%2C+secure%2C+scalable.;Full-Stack+Developer+%7C+Backend+Engineer+%7C+Cloud+%2B+DevOps" alt="Typing SVG" />  </a>
-</p>
-
----
-
-## 👋 About Me
-- 🎓 Honours CS student focused on software engineering and cloud ecosystems.
-- 💡 Passionate about performance, security, and maintainability.
-- 🧩 Love backend architecture, automation, observability, and DX.
-- 🌩️ Exploring DevOps (IaC, CI/CD), Cloud (Azure/GCP), and AI integrations.
-
----
-
-## 🛠 Tech Stack
-
-<!-- Languages & Core -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>&nbsp;
-</p>
-
-<!-- Frontend / Mobile -->
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React"/>&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>&nbsp;
-</p>
-
-<!-- Backend -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>&nbsp;
-</p>
-
-<!-- Databases -->
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>&nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase"/>&nbsp;
-</p>
-
-<!-- Cloud / DevOps -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>&nbsp;
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>&nbsp;
-</p>
-
-<!-- IT Tools (badges for clarity) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>&nbsp;
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>&nbsp;
-  <img src="https://img.shields.io/badge/Netgear-6D01A8?style=for-the-badge&logoColor=white" alt="Netgear"/>&nbsp;
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper‑V"/>&nbsp;
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>&nbsp;
-  <img src="https://img.shields.io/badge/ConnectWise_Automate-2F65B0?style=for-the-badge&logoColor=white" alt="ConnectWise Automate"/>&nbsp;
-</p>
-
-<!-- Creative Tools -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>&nbsp;
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro"/>&nbsp;
-  <img src="https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" alt="Cinema 4D"/>&nbsp;
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>&nbsp;
-</p>
-
----
-
-## 🏆 Trophies
-<div align="center">
-  <img alt="GitHub Trophies"
-       src="https://github-profile-trophy-fork-two.vercel.app/?username=sunnypatell&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="160" alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&hide_border=true&title_color=E8794E&text_color=C7C3BA&bg_color=0B0D0F" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Activity Graph (streaks intentionally omitted) -->
-  <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=sunnypatell&hide_border=true&area=true&bg_color=0B0D0F&color=E8794E&line=D9663D&point=EDE8DC&area_color=D9663D" />
-</div>
-
----
+<!-- ============================================================
+     Profile README for github.com/sunnypatell
+     Design: graphite + ember. Built to be evergreen — every panel
+     below auto-updates from a live service; nothing here goes stale.
+     ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B5431F,100:E8794E&fontColor=EDE8DC" alt="footer" />
+  <img src="./assets/banner.webp" alt="Sunny Patel — Full-Stack Developer" width="100%" />
 </div>
 
-<!--
-Notes:
-- Place this README in a repo named exactly like your username: `sunnypatell`.
-- Hybrid visuals: Devicon via jsDelivr for crisp icons; Shields.io for labeled badges.
-- External cards (stats/trophies/graph) are widely used and recover gracefully if rate-limited.
--->
+<p align="center">
+  <a href="https://www.sunnypatel.net"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-sunnypatel.net-D9663D?style=for-the-badge&labelColor=0B0D0F"></a>
+  <a href="https://www.linkedin.com/in/sunny-patel-30b460204/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-D9663D?style=for-the-badge&logo=linkedin&logoColor=EDE8DC&labelColor=0B0D0F"></a>
+  <a href="https://github.com/sunnypatell?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/sunnypatell?style=for-the-badge&color=D9663D&labelColor=0B0D0F&label=Followers"></a>
+  <a href="https://github.com/sunnypatell"><img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=D9663D&labelColor=0B0D0F&label=Stars"></a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E8794E&center=true&vCenter=true&width=720&height=40&lines=I+build+reliable+systems%3A+clean%2C+secure%2C+scalable.;Full-Stack+%E2%80%A2+Backend+%E2%80%A2+Cloud+%E2%80%A2+DevOps;Always+shipping%2C+always+learning." alt="What I do" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,java,go,cpp,js,react,nextjs,nodejs,tailwind&theme=dark&perline=10" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,gcp,azure,git,githubactions&theme=dark&perline=10" alt="Data, cloud and tooling" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0B0D0F&text_color=C7C3BA&icon_color=D9663D&ring_color=E8794E&rank_icon=percentile" /><img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=0B0D0F&text_color=C7C3BA&title_color=E8794E" />
+</div>
+
+<div align="center">
+  <img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=sunnypatell&hide_border=true&background=0B0D0F&stroke=262B30&ring=E8794E&fire=E8794E&currStreakNum=EDE8DC&currStreakLabel=E8794E&sideNums=C7C3BA&sideLabels=8A929B&dates=8A929B&excludeDaysLabel=8A929B" />
+</div>
+
+<div align="center">
+  <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sunnypatell&hide_border=true&hide_title=true&area=true&bg_color=0B0D0F&color=E8794E&line=D9663D&point=EDE8DC&area_color=D9663D&radius=10" />
+</div>
+
+<div align="center">
+  <sub><a href="https://www.sunnypatel.net"><b>sunnypatel.net</b></a></sub>
+</div>
