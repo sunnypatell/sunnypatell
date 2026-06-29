@@ -9,10 +9,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.sunnypatel.net"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-sunnypatel.net-D9663D?style=for-the-badge&labelColor=0B0D0F"></a>
-  <a href="https://www.linkedin.com/in/sunny-patel-30b460204/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-D9663D?style=for-the-badge&logo=linkedin&logoColor=EDE8DC&labelColor=0B0D0F"></a>
-  <a href="https://github.com/sunnypatell?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/sunnypatell?style=for-the-badge&color=D9663D&labelColor=0B0D0F&label=Followers"></a>
-  <a href="https://github.com/sunnypatell"><img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=D9663D&labelColor=0B0D0F&label=Stars"></a>
+  <a href="https://www.sunnypatel.net"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-sunnypatel.net-D9663D?style=flat-square&labelColor=0B0D0F"></a>
+  <a href="https://www.linkedin.com/in/sunny-patel-30b460204/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-D9663D?style=flat-square&logo=linkedin&logoColor=EDE8DC&labelColor=0B0D0F"></a>
+  <a href="https://github.com/sunnypatell?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/sunnypatell?style=flat-square&color=D9663D&labelColor=0B0D0F&label=Followers"></a>
+  <a href="https://github.com/sunnypatell"><img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=D9663D&labelColor=0B0D0F&label=Stars"></a>
 </p>
 
 <div align="center">
