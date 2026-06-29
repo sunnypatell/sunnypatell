@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=656BF7&text=Sunny%20Patel&fontAlign=50&fontAlignY=35&fontSize=48&desc=Full‑Stack%20Developer%20•%20Backend%20Engineer%20•%20DevOps%20Enthusiast&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:B5431F,100:E8794E&text=Sunny%20Patel&fontAlign=50&fontAlignY=35&fontSize=48&desc=Full‑Stack%20Developer%20•%20Backend%20Engineer%20•%20DevOps%20Enthusiast&descAlign=50&descAlignY=65&fontColor=EDE8DC" alt="header" />
 </div>
 
 <!-- Social + Counters -->
@@ -9,18 +9,18 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/sunnypatell?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/sunnypatell?style=for-the-badge&color=656BF7&label=Followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/sunnypatell?style=for-the-badge&color=D9663D&label=Followers">
   </a>
   <a href="https://github.com/sunnypatell">
-    <img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2&label=Stars">
+    <img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=D9663D&label=Stars">
   </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sunnypatell&style=for-the-badge&color=6f42c1">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sunnypatell&style=for-the-badge&color=D9663D">
 </p>
 
 <!-- Typing Tagline -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&center=true&vCenter=true&width=800&lines=I+build+reliable+systems.+clean%2C+secure%2C+scalable.;Full-Stack+Developer+%7C+Backend+Engineer+%7C+Cloud+%2B+DevOps" alt="Typing SVG" />  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8794E&center=true&vCenter=true&width=800&lines=I+build+reliable+systems.+clean%2C+secure%2C+scalable.;Full-Stack+Developer+%7C+Backend+Engineer+%7C+Cloud+%2B+DevOps" alt="Typing SVG" />  </a>
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ## 🏆 Trophies
 <div align="center">
   <img alt="GitHub Trophies"
-       src="https://github-profile-trophy-fork-two.vercel.app/?username=sunnypatell&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+       src="https://github-profile-trophy-fork-two.vercel.app/?username=sunnypatell&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
@@ -111,20 +111,20 @@
     <tr>
       <td>
         <img height="160" alt="Top Languages"
-          src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&hide_border=true&title_color=E8794E&text_color=C7C3BA&bg_color=0B0D0F" />
       </td>
     </tr>
   </table>
 
   <!-- Activity Graph (streaks intentionally omitted) -->
   <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=sunnypatell&theme=react-dark&hide_border=true&area=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=sunnypatell&hide_border=true&area=true&bg_color=0B0D0F&color=E8794E&line=D9663D&point=EDE8DC&area_color=D9663D" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:656BF7,100:8A2BE2&fontColor=ffffff" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B5431F,100:E8794E&fontColor=EDE8DC" alt="footer" />
 </div>
 
 <!--
