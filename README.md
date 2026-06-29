@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/sunny-patel-30b460204/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-D9663D?style=flat-square&logo=linkedin&logoColor=EDE8DC&labelColor=0B0D0F"></a>
   <a href="https://github.com/sunnypatell?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/sunnypatell?style=flat-square&color=D9663D&labelColor=0B0D0F&label=Followers"></a>
   <a href="https://github.com/sunnypatell"><img alt="Stars" src="https://img.shields.io/github/stars/sunnypatell?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=D9663D&labelColor=0B0D0F&label=Stars"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sunnypatell&style=flat-square&color=D9663D&label=Views">
 </p>
 
 <div align="center">
