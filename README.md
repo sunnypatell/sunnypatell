@@ -31,16 +31,12 @@
 
 <br />
 
-<table align="center" width="100%">
-  <tr>
-    <td width="49%" valign="top"><img width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&hide_border=false&border_color=D9663D&hide_title=true&count_private=true&include_all_commits=true&card_width=437&bg_color=0B0D0F&text_color=C7C3BA&icon_color=D9663D&ring_color=E8794E" /></td>
-    <td width="2%"></td>
-    <td width="49%" valign="top"><img width="100%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&hide_border=false&border_color=D9663D&hide_title=true&card_width=437&bg_color=0B0D0F&text_color=C7C3BA&title_color=E8794E" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&hide_border=false&border_color=D9663D&hide_title=true&count_private=true&include_all_commits=true&card_width=437&bg_color=0B0D0F&text_color=C7C3BA&icon_color=D9663D&ring_color=E8794E" /> <img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=8&hide_border=false&border_color=D9663D&hide_title=true&card_width=437&bg_color=0B0D0F&text_color=C7C3BA&title_color=E8794E" />
+</div>
 
 <div align="center">
-  <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sunnypatell&hide_border=false&border_color=D9663D&hide_title=true&area=true&bg_color=0B0D0F&color=E8794E&line=D9663D&point=EDE8DC&area_color=D9663D&radius=10" />
+  <img width="99%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sunnypatell&hide_border=false&border_color=D9663D&hide_title=true&area=true&bg_color=0B0D0F&color=E8794E&line=D9663D&point=EDE8DC&area_color=D9663D&radius=10" />
 </div>
 
 <div align="center">
