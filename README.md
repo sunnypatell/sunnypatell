@@ -30,11 +30,11 @@
 <br />
 
 <div align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0B0D0F&text_color=C7C3BA&icon_color=D9663D&ring_color=E8794E&rank_icon=percentile" /><img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=0B0D0F&text_color=C7C3BA&title_color=E8794E" />
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&hide_border=false&border_color=D9663D&hide_title=true&count_private=true&include_all_commits=true&bg_color=0B0D0F&text_color=C7C3BA&icon_color=D9663D&ring_color=E8794E&rank_icon=percentile" /><img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=6&hide_border=false&border_color=D9663D&hide_title=true&bg_color=0B0D0F&text_color=C7C3BA&title_color=E8794E" />
 </div>
 
 <div align="center">
-  <img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=sunnypatell&hide_border=true&background=0B0D0F&stroke=262B30&ring=E8794E&fire=E8794E&currStreakNum=EDE8DC&currStreakLabel=E8794E&sideNums=C7C3BA&sideLabels=8A929B&dates=8A929B&excludeDaysLabel=8A929B" />
+  <img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=sunnypatell&hide_border=false&border=D9663D&background=0B0D0F&stroke=262B30&ring=E8794E&fire=E8794E&currStreakNum=EDE8DC&currStreakLabel=E8794E&sideNums=C7C3BA&sideLabels=8A929B&dates=8A929B&excludeDaysLabel=8A929B" />
 </div>
 
 <div align="center">
