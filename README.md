@@ -1,7 +1,9 @@
 <!-- ============================================================
      Profile README for github.com/sunnypatell
-     Design: graphite + ember. Built to be evergreen — every panel
-     below auto-updates from a live service; nothing here goes stale.
+     Design: graphite + ember.
+     Evergreen by design — no role/employer/project text to rot.
+     Banner + footer are baked static assets (zero dependency);
+     the stat panels auto-update from canonical, reliable services.
      ============================================================ -->
 
 <div align="center">
@@ -30,17 +32,15 @@
 <br />
 
 <div align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&hide_border=false&border_color=D9663D&hide_title=true&count_private=true&include_all_commits=true&bg_color=0B0D0F&text_color=C7C3BA&icon_color=D9663D&ring_color=E8794E&rank_icon=percentile" /><img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=6&hide_border=false&border_color=D9663D&hide_title=true&bg_color=0B0D0F&text_color=C7C3BA&title_color=E8794E" />
-</div>
-
-<div align="center">
-  <img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=sunnypatell&hide_border=false&border=D9663D&background=0B0D0F&stroke=262B30&ring=E8794E&fire=E8794E&currStreakNum=EDE8DC&currStreakLabel=E8794E&sideNums=C7C3BA&sideLabels=8A929B&dates=8A929B&excludeDaysLabel=8A929B" />
+  <img width="48%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnypatell&show_icons=true&hide_border=false&border_color=D9663D&hide_title=true&count_private=true&include_all_commits=true&bg_color=0B0D0F&text_color=C7C3BA&icon_color=D9663D&ring_color=E8794E&rank_icon=percentile" />&nbsp;&nbsp;<img width="48%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnypatell&layout=compact&langs_count=6&hide_border=false&border_color=D9663D&hide_title=true&bg_color=0B0D0F&text_color=C7C3BA&title_color=E8794E" />
 </div>
 
 <div align="center">
   <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sunnypatell&hide_border=true&hide_title=true&area=true&bg_color=0B0D0F&color=E8794E&line=D9663D&point=EDE8DC&area_color=D9663D&radius=10" />
 </div>
 
+<br />
+
 <div align="center">
-  <sub><a href="https://www.sunnypatel.net"><b>sunnypatel.net</b></a></sub>
+  <img src="./assets/footer.webp" alt="" width="100%" />
 </div>
